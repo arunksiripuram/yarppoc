@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dyAeH/oujtMbuPPmTbunddrXqoviBDh8gownqj3EAB4=",
+  "Source": "TransactionTypeApi",
+  "BasePath": "_content/TransactionTypeApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

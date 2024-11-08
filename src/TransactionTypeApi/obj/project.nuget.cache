@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yg3JBCfgaIc=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\POC\\BankingMasterDataSolution\\src\\TransactionTypeApi\\TransactionTypeApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arunk\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0-rc.1.24452.1\\microsoft.aspnetcore.openapi.9.0.0-rc.1.24452.1.nupkg.sha512",
+    "C:\\Users\\arunk\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
+    "C:\\Users\\arunk\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.100-rc.1.24452.12\\microsoft.net.sdk.compilers.toolset.9.0.100-rc.1.24452.12.nupkg.sha512"
+  ],
+  "logs": []
+}
